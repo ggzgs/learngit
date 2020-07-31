@@ -6,3 +6,4 @@ git can connect remote repository.
 creating a new branch is quick and simple.
 add merge
 bug branch
+new branch dev
